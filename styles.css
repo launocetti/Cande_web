@@ -17,9 +17,6 @@
     background-image: url('./imagenes/fondo-pastel.jpg');
   }
   
-  .container-fluid.my-5{
-    background: linear-gradient(red, yellow, blue, green); 
-  }
   .navbar {
     display: none;
     background-image: url('./imagenes/fondo-pastel.jpg');
