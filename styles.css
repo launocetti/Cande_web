@@ -3,7 +3,6 @@
 
   body {
     min-width: 992px !important;
-    background: linear-gradient(red, yellow, blue, green);  
   }
 
   #fondo
@@ -17,7 +16,10 @@
     min-width: 992px !important;
     background-image: url('./imagenes/fondo-pastel.jpg');
   }
-
+  
+  .container-fluid.my-5{
+    background: linear-gradient(red, yellow, blue, green); 
+  }
   .navbar {
     display: none;
     background-image: url('./imagenes/fondo-pastel.jpg');
