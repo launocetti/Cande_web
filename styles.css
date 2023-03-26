@@ -3,13 +3,15 @@
 
   body {
     min-width: 992px !important;
+        background-image: url('./imagenes/fondo-pastel.jpg');                 
+    background-position: center center;
   }
 
   #fondo
-{
+{/*
     background-image: url('./imagenes/fondo-pastel.jpg');                 
     background-position: center center;
-}
+*/}
 
 
   .container {
